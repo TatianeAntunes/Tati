@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://github.com/TatianeAntunes">
-    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TatianeAntunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true"/>
-    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=TatianeAntunes&count_private=true&theme=dark"/>
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TatianeAntunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true"/>
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=TatianeAntunes&count_private=true&theme=dark"/>
   </a>
 </p>
 
