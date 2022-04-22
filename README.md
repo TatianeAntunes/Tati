@@ -5,12 +5,9 @@
 ![](https://komarev.com/ghpvc/?username=TatianeAntunes&color=green)
 
 - :computer: I'm Tatiane, a Frontend Developer! 
-- 🔭 I'm currently working for a precision agriculture company.
-- 👨‍💻 I like to build things with Python, React, React Native, Docker, AWS, SQL databases and modern backend APIs.
-- 🌱 I'm currently learning to use Serverless framework.
-- 💬 Ask me about: tech, movies, animes.
-
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful." - Calvin Coolidge
+- 👨‍💻 I like to build things with Javascript, HTML5 e CSS3.
+- 🌱 I'm currently learning Javascript, HTML5 e CSS3.
+- 💬 Ask me about: tech, movies, science, music and rollerblading.
 
 ### ✨ GitHub Analytics
 
@@ -23,18 +20,11 @@
 
 ### 🛠 Tech Stack
 <div align="center"> 
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 </div>
 
