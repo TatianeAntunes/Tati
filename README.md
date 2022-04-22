@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://github.com/TatianeAntunes">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TatianeAntunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true"/>
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=TatianeAntunes&count_private=true&theme=dark"/>
+    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TatianeAntunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true"/>
+    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=TatianeAntunes&count_private=true&theme=dark"/>
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 <div align="center"> 
 
   <a href="https://www.linkedin.com/in/joao-paulo-antunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:TatianeAntunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:antunes.tatiane.s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCKyBkY5OlIiVLSvoj9eSaFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jpantunes13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
